@@ -42,7 +42,7 @@ tags:
 
 `yum install ruby `
 
-如果出现ruby版本过低错误，请参考我另外一篇 文章Centos升级Ruby
+如果出现ruby版本过低错误，请参考我另外一篇文章 [Centos升级Ruby](https://songyp.github.io/2019/02/19/Centos%E5%8D%87%E7%BA%A7Ruby/)
 
 ## 安装Jekyll
 
