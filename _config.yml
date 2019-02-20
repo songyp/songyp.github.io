@@ -99,16 +99,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "简书·SYP",
+        href: "https://www.jianshu.com/u/2a069d686a0d"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "元鼎科技",
+        href: "http://www.yuandingit.com"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "OTPUB",
+        href: "http://www.otpub.com/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "腾讯蓝鲸",
+        href: "https://bk.tencent.com/"
     }
 ]
